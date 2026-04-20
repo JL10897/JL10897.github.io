@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='https://cs.nyu.edu/'>Computer Science</a>, New York University. Advised by <a href='https://hananhindysalam.github.io/'>Hanan Salam</a> at the <a href='https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/smart-lab.html'>SMART Lab</a>.
+subtitle: PhD Student, <a href='https://cs.nyu.edu/'>Computer Science</a>, New York University. Advised by <a href='https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hanan-salam.html'>Hanan Salam</a> at the <a href='https://smartlab-nyu.com/'>SMART Lab</a>.
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a first-year PhD student in Computer Science at [New York University](https://cs.nyu.edu/), advised by [Hanan Salam](https://hananhindysalam.github.io/) at the [SMART (Social Machines and Robotics) Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/smart-lab.html). I am supported by the NYU Abu Dhabi Global PhD Fellowship.
+I am a second-year PhD student in Computer Science at [New York University](https://cs.nyu.edu/), advised by [Hanan Salam](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hanan-salam.html) at the [SMART (Social Machines and Robotics) Lab](https://smartlab-nyu.com/). I am supported by the NYU Abu Dhabi Global PhD Fellowship.
 
 My research sits at the intersection of **human-agent interaction**, **personalization**, and **socially aware NLP**. I build agents that understand individual users — their preferences, affect, and interaction history — and adapt to them over time. Recent work has focused on preference modeling in LLM-based assistants, personality-aware engagement detection, and augmentation methods for affective computing.
 
