@@ -40,6 +40,6 @@ nav_order: 3
 
 - **PawMood: VLM-based Human–Canine Interaction Assistant**, 2024. HCI course project at NYU. Designed and evaluated a real-time visual-language assistant for urban non-dog owners; user study showed significant gains in confidence and accuracy, and uncovered a "knowledge transfer" effect that shifted design priority toward low-latency spontaneous use.
 
-## Fun
+## Outside of Research
 
-Outside research I enjoy hiking, photography, and exploring NYC's coffee shops. *(Tell the world what you actually do for fun — swap this in.)*
+I have a soft spot for psychology and personality profiling — anything that tries to put shape to how people differ. This includes both Eastern and Western character systems: Chinese BaZi (生辰八字), astrology and natal charts, MBTI, and Jungian cognitive functions (荣格八维). I also dance and swim whenever I can.
