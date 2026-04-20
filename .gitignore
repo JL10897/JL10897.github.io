@@ -12,4 +12,5 @@ assets/libs/
 assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
-vendorassets/img/publication_preview/*.pdf
+vendor
+assets/img/publication_preview/*.pdf
