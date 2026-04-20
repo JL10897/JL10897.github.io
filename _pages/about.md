@@ -37,6 +37,6 @@ My research interests mainly lie in the following areas:
 
 - **Preference alignment & data augmentation**: scenario-driven innovation in instruction tuning, preference alignment, and data augmentation for under-represented users and per-user distributions ([*ACII 2025*, Oral](https://drive.google.com/file/d/1hnG0q4Wspp5A1FVEk79y-_wmOvoFONfN/view?usp=drive_link)).
 
-- **Long-term memory for LLM agents**: frameworks that let an agent persistently perceive a user's evolving preferences and context, and deliver highly customized responses across sessions (*PRIME*, under review).
+- **Long-term memory for LLM agents**: frameworks that let an agent persistently track a user's *context-aware preferences* — not just what the user likes in the abstract, but what they want in *this* situation, *right now*, given what has happened before. The goal is memory that resolves preferences against context rather than collapsing them into a static profile, so that responses stay customized as the user and the interaction evolve (*PRIME*, under review).
 
 - **Affective & socially aware computing**: foundations tying affective computing, social commonsense, and personality modeling into the design of persona-level agents ([Survey on Personalized Affective Computing, arXiv 2023](https://arxiv.org/abs/2304.00377)).
