@@ -39,6 +39,4 @@ My research interests mainly lie in the following areas:
 
 - **Long-term memory for LLM agents**: frameworks that let an agent persistently perceive a user's evolving preferences and context, and deliver highly customized responses across sessions (*PRIME*, under review).
 
-- **Evaluation of human–AI collaboration**: instruments for measuring when AI augments human creative or technical work, and when it instead flattens collective diversity — from text-to-image prompting (*AtelierEval*) to agentic coding (*CentaurEval*).
-
 - **Affective & socially aware computing**: foundations tying affective computing, social commonsense, and personality modeling into the design of persona-level agents ([Survey on Personalized Affective Computing, arXiv 2023](https://arxiv.org/abs/2304.00377)).
