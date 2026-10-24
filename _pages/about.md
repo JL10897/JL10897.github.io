@@ -29,7 +29,7 @@ I am a third-year PhD student in Computer Science at [New York University](https
 
 **AI for everyone is AI for no one.** I work on making large language models *people-aware*, designing agents that attend to a user's preferences and affect across their interaction history, and adapt to them over time. While today's models are increasingly capable, generic alignment produces averaged behavior that still struggles to accommodate how each person actually wants to be assisted. So I study what kind of interaction paradigm allows highly functional agents and full human agency to coexist. My goal is to rethink and design personalized interactions where people can ultimately cultivate a grounded partnership with AI through the very process of using and shaping it.
 
-To realize this vision, my research brings together affective computing, human–agent interaction, and LLM alignment across three core threads.
+My research realizes this vision across three core threads.
 
 - **Modeling individual differences in affect and personality.** To become people-aware, an agent first needs to attend to the underlying human signals that vary from person to person. I model what makes each user distinct across affect, personality, and engagement from multimodal behavioral cues. This includes our work on personality-aware engagement in online learning ([*MOPSE*, ACM MM 2025 MRAC](https://dl.acm.org/doi/10.1145/3746270.3760234)), per-user affect prediction with data augmentation ([*ACII 2025*, Oral](https://drive.google.com/file/d/1hnG0q4Wspp5A1FVEk79y-_wmOvoFONfN/view?usp=drive_link)), and our foundational [survey on personalized affective computing](https://arxiv.org/abs/2304.00377).
 
