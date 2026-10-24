@@ -4,24 +4,24 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "In reverse chronological order. * denotes equal contribution.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-misc",
-          title: "misc",
+        },{id: "nav-cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/misc/";
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -54,11 +54,14 @@ ninja.data = [{
           section: "News",},{id: "news-presented-our-work-on-personalised-valence-arousal-prediction-as-an-oral-at-acii-2025",
           title: 'Presented our work on personalised valence/arousal prediction as an oral at ACII 2025....',
           description: "",
-          section: "News",},{id: "news-causalgame-will-be-presented-at-the-iclr-2026-workshop-on-foundation-models-for-science-fm4science",
-          title: 'CausalGame will be presented at the ICLR 2026 Workshop on Foundation Models for...',
-          description: "",
           section: "News",},{id: "news-our-paper-prefix-on-preference-adaptation-in-human-agent-interaction-was-accepted-at-acl-findings-2026",
           title: 'Our paper PrefIx on preference adaptation in human–agent interaction was accepted at ACL...',
+          description: "",
+          section: "News",},{id: "news-joined-the-tencent-hunyuan-foundation-model-team-as-a-research-intern-through-tencent-project-up-青云计划-working-on-data-and-evaluation-for-human-centric-companion-agents",
+          title: 'Joined the Tencent Hunyuan Foundation Model Team as a research intern through Tencent...',
+          description: "",
+          section: "News",},{id: "news-released-mempabench-a-benchmark-for-whether-personal-agents-remember-how-each-user-wants-to-be-assisted-paper-on-arxiv",
+          title: 'Released MemPABench, a benchmark for whether personal agents remember how each user wants...',
           description: "",
           section: "News",},{
         id: 'social-email',
