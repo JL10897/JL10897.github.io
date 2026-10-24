@@ -65,7 +65,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6C%31%30%38%39%37@%6E%79%75.%65%64%75", "_blank");
+          window.open("mailto:%6A%69%61%6C%69%6E.%6C%69@%6E%79%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
@@ -73,13 +73,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/JL10897", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',

@@ -5,7 +5,7 @@ referenced by the `preview:` field in `_bibliography/papers.bib`:
 
 - `prefix.png`          — PrefIx (ACL Findings 2026)
 - `causalgame.png`      — CausalGame (ICLR 2026 workshop + full)
-- `prime.png`           — PRIME (under review)
+- `mempabench.gif`      — MemPABench (under review)
 - `ateliereval.png`     — AtelierEval (under review)
 - `centaureval.png`     — CentaurEval (under review)
 - `mopse.png`           — MOPSE (ACM MM 2025 MRAC)
