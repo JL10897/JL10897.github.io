@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a second-year PhD student in Computer Science at [New York University](https://cs.nyu.edu/), advised by [Hanan Salam](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hanan-salam.html) at the [SMART (Social Machines and Robotics) Lab](https://smartlab-nyu.com/). I am supported by the NYU Abu Dhabi Global PhD Fellowship. Before joining NYU, I received my BS in Data Science from [NYU Shanghai](https://shanghai.nyu.edu/) in 2023.
+I am a third-year PhD student in Computer Science at [New York University](https://cs.nyu.edu/), advised by [Hanan Salam](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hanan-salam.html) at the [SMART (Social Machines and Robotics) Lab](https://smartlab-nyu.com/). I am supported by the NYU Abu Dhabi Global PhD Fellowship. Before joining NYU, I received my BS in Data Science from [NYU Shanghai](https://shanghai.nyu.edu/) in 2023.
 
 **AI for everyone is AI for no one.** I work on making large language models *people-aware*, designing agents that attend to a user's preferences and affect across their interaction history, and adapt to them over time. While today's models are increasingly capable, generic alignment produces averaged behavior that still struggles to accommodate how each person actually wants to be assisted. So I study what kind of interaction paradigm allows highly functional agents and full human agency to coexist. My goal is to rethink and design personalized interactions where people can ultimately cultivate a grounded partnership with AI through the very process of using and shaping it.
 

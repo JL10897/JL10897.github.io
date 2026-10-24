@@ -210,6 +210,19 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  .contact-email {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 0.4rem 0.9rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.4rem;
+    font-size: 0.95rem;
+
+    &[hidden] {
+      display: none;
+    }
+  }
+
   .contact-note {
     font-size: 0.8rem;
   }

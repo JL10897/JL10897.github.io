@@ -11,7 +11,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-## As (co-)first author
+## First Author
 
 <div class="publications">
 

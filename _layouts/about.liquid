@@ -69,6 +69,16 @@ layout: default
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% social_links %}</div>
+        <div id="contact-email" class="contact-email" hidden>
+          <a href="mailto:{{ site.data.socials.email }}">{{ site.data.socials.email }}</a>
+        </div>
+        <script>
+          document.querySelector('.contact-icons a[href^="mailto:"]').addEventListener('click', (event) => {
+            event.preventDefault();
+            const popup = document.getElementById('contact-email');
+            popup.hidden = !popup.hidden;
+          });
+        </script>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
