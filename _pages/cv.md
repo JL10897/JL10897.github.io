@@ -22,9 +22,13 @@ nav_order: 3
 
 ## Experience
 
+- **Research Intern** (Tencent Project Up), Tencent Hunyuan Foundation Model Team, China, 2026–
+- **AI Solution Engineer Intern**, KPMG, Shanghai, 2021
+
+{% comment %}
 - **Research Assistant**, SMART Lab, NYU Abu Dhabi, 2022–2024
 - **Student Researcher**, Dean's Undergraduate Research Fund, NYU Shanghai, 2020–2021
-- **AI Solution Engineer Intern**, KPMG, Shanghai, 2021
+{% endcomment %}
 
 ## Service
 
