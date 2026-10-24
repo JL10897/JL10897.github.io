@@ -57,7 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-prefix-on-preference-adaptation-in-human-agent-interaction-was-accepted-at-acl-findings-2026",
           title: 'Our paper PrefIx on preference adaptation in human–agent interaction was accepted at ACL...',
           description: "",
-          section: "News",},{id: "news-joined-the-tencent-hunyuan-foundation-model-team-as-a-research-intern-through-tencent-project-up-青云计划-working-on-data-and-evaluation-for-human-centric-companion-agents",
+          section: "News",},{id: "news-joined-the-tencent-hunyuan-foundation-model-team-as-a-research-intern-through-tencent-project-up-青云计划-working-on-data-synthesis-and-reward-model-alignment-for-long-horizon-companion-agents",
           title: 'Joined the Tencent Hunyuan Foundation Model Team as a research intern through Tencent...',
           description: "",
           section: "News",},{id: "news-released-mempabench-a-benchmark-for-whether-personal-agents-remember-how-each-user-wants-to-be-assisted-paper-on-arxiv",
