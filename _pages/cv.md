@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /misc/
-title: misc
+permalink: /cv/
+title: CV
 description:
 nav: true
 nav_order: 3
