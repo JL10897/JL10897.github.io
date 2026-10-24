@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the **Tencent Hunyuan Foundation Model Team** as a research intern through **Tencent Project Up** (青云计划), working on data and evaluation for human-centric companion agents.
+Joined the **Tencent Hunyuan Foundation Model Team** as a research intern through **Tencent Project Up** (青云计划), working on data synthesis and reward-model alignment for long-horizon companion agents.
