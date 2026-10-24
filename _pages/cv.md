@@ -28,7 +28,7 @@ nav_order: 3
 
 ## Service
 
-**Reviewing** — ACM MM 2025, SuSS 2025, ACL 2026
+**Reviewing** — ACM MM 2025, SuSS 2025, ACL 2026, ICLR 2026, IEEE TAC, EMNLP 2026
 
 **DEI Committee Organizer** — [Association for the Advancement of Affective Computing (AAAC)](https://aaac.international/), 2025–. Fostering diversity, equity, and inclusion in affective computing through mentorship programs and inclusive workshops.
 
