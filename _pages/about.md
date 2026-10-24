@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a second-year PhD student in Computer Science at [New York University](https://cs.nyu.edu/), advised by [Hanan Salam](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hanan-salam.html) at the [SMART (Social Machines and Robotics) Lab](https://smartlab-nyu.com/). I am supported by the NYU Abu Dhabi Global PhD Fellowship. Before NYU I received my BS in Data Science from [NYU Shanghai](https://shanghai.nyu.edu/) in 2023. I am also a member of the [AAAC DEI Committee](https://aaac.international/).
+I am a second-year PhD student in Computer Science at [New York University](https://cs.nyu.edu/), advised by [Hanan Salam](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hanan-salam.html) at the [SMART (Social Machines and Robotics) Lab](https://smartlab-nyu.com/). I am supported by the NYU Abu Dhabi Global PhD Fellowship. Before joining NYU, I received my BS in Data Science from [NYU Shanghai](https://shanghai.nyu.edu/) in 2023.
 
 **AI for everyone is AI for no one.** I work on making large language models *people-aware* — attentive to an individual user's preferences, affect, and interaction history, and able to adapt to them over time. I am drawn to this problem because generic alignment produces averaged behavior that fits no one in particular, and because personalization sits at the intersection of human cognition, social signals, and the practical limits of today's foundation models.
 
