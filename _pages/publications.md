@@ -29,4 +29,4 @@ nav_order: 2
 
 &nbsp;
 
-For a full list, see my [Google Scholar](#) <!-- TODO: add Scholar URL once available -->.
+For a full list, see my [Google Scholar](https://scholar.google.com/citations?user=WqjhofoAAAAJ).
